@@ -1,0 +1,41 @@
+body {
+  background: #EBC5C5;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+header {
+  margin-top: 100px;
+}
+
+h1 {
+  color: red;
+  font-family: fantasy;
+}
+
+h2 {
+  font-family: fantasy;
+}
+
+p {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  ;
+}
+
+footer {
+  margin-bottom: 300px;
+}
+
+.img_padrao {
+  margin-bottom: 20px;
+  width: 600px;
+}
+
+.logo_email {
+  width: 30px;
+}
+
+.logo_wtsp {
+  width: 40px;
+}
